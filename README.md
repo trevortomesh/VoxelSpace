@@ -1,4 +1,4 @@
-# Voxel Space
+# Voxel Space - Tomesh Edition!
 
 ![web demonstration](images/webdemo.gif)
 
